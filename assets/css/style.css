@@ -200,3 +200,8 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*Added new class to revert footer text size back to desired 20px, while maintaining
+sequential order of the heading elements*/
+.h4 {
+    font-size: 20px;
+}
