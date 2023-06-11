@@ -3,7 +3,8 @@
     padding: 0;
     margin: 0;
 }
-
+/* Check the style sheet for issues as each semantic element is chaged in the index.html document, 
+Use the inspect tool on the browser to help test changes on both ends*/
 body {
     background-color: #d9dcd6;
 }
